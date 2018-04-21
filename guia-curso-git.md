@@ -1,4 +1,4 @@
 git status
 git log
 git add 
-git commit
+git commit 
