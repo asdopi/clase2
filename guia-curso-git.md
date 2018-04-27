@@ -3,3 +3,4 @@ git log
 git add 
 git commit 
 git push 
+cambioooo clase2
